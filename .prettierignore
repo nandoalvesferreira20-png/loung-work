@@ -1,0 +1,4 @@
+**/package-lock.json
+**/.venv
+**/.next
+**/next-env.d.ts
